@@ -1,0 +1,18 @@
+# Ignore dataset
+data/IMG/
+data/*.csv
+
+# Ignore model weights
+model.h5
+
+# Ignore simulator
+simulator/
+
+# Ignore temp directories
+tf_temp/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
